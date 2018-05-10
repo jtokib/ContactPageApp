@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contact Us</string>
+    <string name="text_company_name">California Institute\nof Integral Studies</string>
+    <string name="text_company_address_line_1">1453 Mission Street</string>
+    <string name="text_company_address_line_2">San Francisco, CA 94103</string>
+    <string name="text_company_email">web@ciis.edu</string>
+    <string name="text_company_phone">(415) 575-6100</string>
+    <string name="text_button">Website</string>
+    <string name="content_description_image_bottom">CIIS 50th Anniversary Logo</string>
+</resources>
